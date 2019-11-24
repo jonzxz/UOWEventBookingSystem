@@ -3,6 +3,7 @@
 Completed prototype for CSIT214's Event Booking System.
 <br>Flask micro web service framework
 <br>HTML, CSS, Bootstrap 4, JS, JQuery for frontend
+<br>Application tested and formerly deployed on AWS using nginx and Gunicorn
 ## Installation
 
 Follow the below instructions in cmd for a rough guide on how to get this working - The below code assumes you already have Git installed on your computer. The instruction creates an isolated venv and activates it, which then installs the required packages via requirements.txt so they are not installed globally.
@@ -25,16 +26,9 @@ http://localhost:4000/ to access the website
 
 
 ## Tasks
-- Test out the system and ensure that following functions can be done
-    1. Staff User login, Create/Update/Delete 3 DIFFERENT Event Types & Date/Time
-    2. Student Login
-        - Search by event type, date range, price range
-        - Book > 1 ticket, for >= 2 different events
-        - Cancel existing booking
-    3. Change Request
-        - <s>User Management</s> / <b>System Admin </b>
+- Project completed and submitted
 
 ## Contribution - Team Members
-Fu Peichong<br>
+Fu Peichong - Overall Tech Lead<br>
 Ong Yu Xiang<br>
 Jonathan Kerk<br>
