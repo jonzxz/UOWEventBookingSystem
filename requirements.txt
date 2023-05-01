@@ -2,7 +2,7 @@ alembic==1.2.1
 APScheduler==3.6.3
 Click==7.0
 decorator==4.4.0
-Flask==1.1.1
+Flask==2.3.2
 Flask-Admin==1.5.4
 Flask-APScheduler==1.11.0
 Flask-CKEditor==0.4.3
